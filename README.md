@@ -12,4 +12,8 @@ select opening and closing time<br />
 filtering the stores by "currently opened"<br />
 filtering the stores by "has delivery"<br />
 select location<br />
+<br />
+<br />
+<br />
+To run the app you need to install anndriod studio and java on your PC
 
