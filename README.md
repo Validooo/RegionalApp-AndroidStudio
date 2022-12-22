@@ -15,5 +15,5 @@ select location<br />
 <br />
 <br />
 <br />
-To run the app you need to install anndriod studio and java on your PC
+To run the app you need to install android studio and java on your PC
 
