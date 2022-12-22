@@ -4,10 +4,12 @@ This  is a andriod based frontend application that is developed with andriod stu
 The app is well organized and  has many features. <br />
 The features are:<br />
 filter<br />
-select categories<br />
+choose store type<br />
+choose category<br />
+choose organisation <br />
 show near stores<br />
 select opening and closing time<br />
 filtering the stores by "currently opened"<br />
 filtering the stores by "has delivery"<br />
 select location<br />
-choose store type<br />
+
