@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">SWT</string>
+    <string name="choose_category">Choose Category</string>
+
+    <string-array name="categories">
+        <item>vegetables</item>
+        <item>fruits</item>
+        <item>meat</item>
+        <item>meatproducts</item>
+        <item>cereals</item>
+        <item>milk</item>
+        <item>milkproducts</item>
+        <item>pasta</item>
+        <item>beverages</item>
+        <item>honey</item>
+        <item>eggs</item>
+        <item>bakedgoods</item>
+    </string-array>
+
+    <string-array name="types">
+        <item>producer</item>
+        <item>mart</item>
+        <item>hotel</item>
+        <item>restaurant</item>
+        <item>shop</item>
+    </string-array>
+
+    <string-array name="organisations">
+        <item>Gutjahr, Scheurer und Griese</item>
+        <item>Ghosh-Schuermann</item>
+        <item>Hepperle, Franke und Kuschewitz</item>
+        <item>Eich, Heuck und Kölotzei</item>
+        <item>Hepperle, Franke und Kuschewitz</item>
+    </string-array>
+
+    <string name="clear_all">Clear all</string>
+
+    <string name="av_cat">Available categories</string>
+
+    <string name="dismiss">Dismiss</string>
+
+    <string name="ok_label">OK</string>
+
+
+    <string-array name="categories2">
+
+        <item>name</item>
+
+        <item>owner</item>
+
+        <item>types</item>
+
+        <item>address</item>
+
+        <item>description</item>
+
+        <item>productGroups</item>
+
+        <item>productsDescription</item>
+
+        <item>openingHoursComments</item>
+
+        <item>organizations</item>
+
+        <item>messages</item>
+
+    </string-array>
+
+</resources>
