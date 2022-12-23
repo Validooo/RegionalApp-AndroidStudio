@@ -12,7 +12,8 @@ The app is well organized and  has many features.The features are: <br />
 7- filtering the stores by "currently opened"<br />
 8- filtering the stores by "has delivery"<br />
 9- select location<br />
-10- choose range distnace
+10- choose range distnace<br />
+11- favourite stores list
 <br />
 <br />
 <br />
