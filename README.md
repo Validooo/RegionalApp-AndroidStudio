@@ -17,6 +17,10 @@ The app is well organized and  has many features.The features are: <br />
 11- favourite stores list
 <br />
 <br />
+<h5> In the"tests" pdf you will find a better visualization of the features and observe how the application functions. </h5>
+
+
+
 <br />
 To run the app you need to install android studio and java on your PC
 
