@@ -1,6 +1,8 @@
 # RegionalApp-AndroidStudio
 
 This  is a andriod based frontend application that is developed with andriod studio. The main function of the app is to search for stores in the region that the user wants to visit. This application was developed in the university  in 2021 in  "Softwarepraktikum" class. <br />
+In the "klassenDiagramm" pdf you will find the class diagramms of the software.
+The following picture corresponds to the search screen in the application 
 <img src="praktikum_photos//filter.jpg" >
 The app is well organized and  has many features.The features are: <br />
 1- filter the information about the stores. For example: address, openinghours, owner etc...<br />
