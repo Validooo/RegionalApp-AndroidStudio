@@ -19,3 +19,6 @@ The app is well organized and  has many features.The features are: <br />
 <br />
 To run the app you need to install android studio and java on your PC
 
+----------------------------------------------------------------------------------------------------
+<h2>Screenshots are found in the Photos folder</h2>
+
