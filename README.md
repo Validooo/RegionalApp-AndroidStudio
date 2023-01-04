@@ -21,11 +21,11 @@ The app is well organized and  has many features.The features are: <br />
 ----------------------------------------------------------------------------------------------------
 <h3> In the"tests" pdf you will find a better visualization of the features and observe how the application functions. </h3>
 
-
+----------------------------------------------------------------------------------------------------
 
 <br />
-To run the app you need to install android studio and java on your PC
+<h3> To run the app you need to install android studio and java on your PC <h3> 
 
 ----------------------------------------------------------------------------------------------------
-<h2>Screenshots are found in the Photos folder</h2>
+<h3>Screenshots are found in the Photos folder</h3>
 
